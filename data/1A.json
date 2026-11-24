@@ -582,6 +582,213 @@
  },
  "sections": [
   {
+   "id": "1a-vocabulary",
+   "title": "Vocabulary – personality adjectives",
+   "pages": "8–9",
+   "group": "lesson",
+   "blocks": [
+    {
+     "type": "speaking",
+     "number": "1a",
+     "prompt": "Work in pairs and discuss the questions.",
+     "questions": [
+      "How would you usually describe yourself to someone you have never met before?",
+      "How do you think the factors in the box might influence someone's personality?"
+     ],
+     "targetVocab": [
+      "personality",
+      "influence",
+      "heritage",
+      "lifestyle"
+     ]
+    },
+    {
+     "type": "reading",
+     "number": "1b",
+     "instruction": "Read the article. Does it include any of your ideas?",
+     "legend": [
+      {
+       "color": "pink",
+       "label": "personality adjectives"
+      }
+     ],
+     "highlights": [
+      {
+       "text": "ambitious",
+       "color": "pink"
+      },
+      {
+       "text": "rebellious",
+       "color": "pink"
+      },
+      {
+       "text": "adventurous",
+       "color": "pink"
+      },
+      {
+       "text": "argumentative",
+       "color": "pink"
+      },
+      {
+       "text": "stubborn",
+       "color": "pink"
+      },
+      {
+       "text": "curious",
+       "color": "pink"
+      },
+      {
+       "text": "cheerful",
+       "color": "pink"
+      },
+      {
+       "text": "outgoing",
+       "color": "pink"
+      },
+      {
+       "text": "sociable",
+       "color": "pink"
+      }
+     ],
+     "cards": [
+      {
+       "subheading": "Introduction",
+       "text": "Our experiences have a huge impact on our personalities. The jobs we do, the people we meet, our achievements and disappointments all contribute to the kind of person we are. What other factors might also be important?"
+      },
+      {
+       "subheading": "Family",
+       "text": "A lot of people think that our personality is shaped by the size of our family and our position in it. Some argue that first-born children are more likely to be ambitious achievers. Younger children, on the other hand, might be more rebellious and willing to break rules. The youngest child of a family is often fun-loving and adventurous – always keen to try new things. We can inherit personality characteristics, too, like being argumentative or stubborn."
+      },
+      {
+       "subheading": "Language",
+       "text": "Research suggests that the language we speak influences our personality and the way we think. In a recent survey of international students, Gosia, a Polish-born immigrant in the USA, says that when she speaks English, she feels ‘more curious about the world’. Natasha, who speaks several languages, says that she feels more romantic when she’s speaking Portuguese, more cheerful and likely to smile when speaking Italian and more relaxed when speaking Greek."
+      },
+      {
+       "subheading": "Geography",
+       "text": "Other studies show that where we live or were born might also influence our lifestyle, our personality and the way that we interact with others socially. People living in warmer climates often see themselves as more sociable and outgoing, whilst people from mountainous areas seem to be more open to new experiences."
+      }
+     ]
+    },
+    {
+     "type": "speaking",
+     "number": "1c",
+     "prompt": "Work in pairs and discuss the questions.",
+     "questions": [
+      "Which ideas in the article do you agree or disagree with? Which do you find surprising?",
+      "Do you feel your personality changes when you speak a different language? In what way?",
+      "What other things do you think can influence your personality?"
+     ],
+     "targetVocab": [
+      "ambitious",
+      "rebellious",
+      "adventurous",
+      "curious",
+      "outgoing"
+     ]
+    },
+    {
+     "type": "flexible_input",
+     "number": "2a",
+     "instruction": "Complete the meanings with the adjectives in bold in the article.",
+     "items": [
+      {
+       "q": "If someone doesn't follow the rules, you can say they are being ___.",
+       "answers": [
+        "rebellious"
+       ],
+       "hint": "Look for the word near 'willing to break rules'.",
+       "explanation": "Rebellious means refusing to obey rules or authority."
+      },
+      {
+       "q": "When you are interested in learning about new things, you are ___.",
+       "answers": [
+        "curious"
+       ],
+       "hint": "Gosia feels this way when she speaks English.",
+       "explanation": "Curious means eager to know or learn something."
+      },
+      {
+       "q": "When you have big plans to achieve a lot of things, you are ___.",
+       "answers": [
+        "ambitious"
+       ],
+       "hint": "First-born children are described this way.",
+       "explanation": "Ambitious means having a strong desire to succeed."
+      },
+      {
+       "q": "If you like to go out with a lot of people and enjoy yourself, you are ___.",
+       "answers": [
+        "outgoing",
+        "sociable"
+       ],
+       "hint": "People in warmer climates often see themselves this way.",
+       "explanation": "Outgoing/sociable means friendly and enjoying the company of others."
+      },
+      {
+       "q": "If you smile a lot and feel happy most of the time, you are ___.",
+       "answers": [
+        "cheerful"
+       ],
+       "hint": "Natasha feels this when speaking Italian.",
+       "explanation": "Cheerful means happy and positive."
+      },
+      {
+       "q": "People who often disagree with other people are ___.",
+       "answers": [
+        "argumentative"
+       ],
+       "hint": "One of the inherited characteristics mentioned.",
+       "explanation": "Argumentative means liking to argue or disagree."
+      },
+      {
+       "q": "If you're not afraid of going to new places and taking risks, you are ___.",
+       "answers": [
+        "adventurous"
+       ],
+       "hint": "The youngest child is often described this way.",
+       "explanation": "Adventurous means willing to take risks and try new things."
+      },
+      {
+       "q": "If you refuse to change your mind about something, you are ___.",
+       "answers": [
+        "stubborn"
+       ],
+       "hint": "Paired with argumentative as an inherited trait.",
+       "explanation": "Stubborn means determined not to change your mind."
+      }
+     ]
+    },
+    {
+     "type": "speaking",
+     "number": "2b",
+     "prompt": "Work in pairs. Describe three people you know using words from Ex 2A. Explain why you chose each word.",
+     "questions": [
+      "Describe three people you know using the personality adjectives from 2A.",
+      "Explain why you chose each word."
+     ],
+     "targetVocab": [
+      "ambitious",
+      "rebellious",
+      "curious",
+      "outgoing",
+      "cheerful",
+      "argumentative",
+      "adventurous",
+      "stubborn"
+     ]
+    },
+    {
+     "type": "speaking",
+     "number": "2c",
+     "prompt": "Learn and practise. Go to the Vocabulary Bank on page 136.",
+     "questions": [],
+     "targetVocab": [
+      "suffix"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1a-listening",
    "title": "Listening",
    "pages": "9",
