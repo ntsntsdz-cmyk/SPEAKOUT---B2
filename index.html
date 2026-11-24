@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Speakout B2 · English Course</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F8FAFC;--card:#fff;--line:#E2E8F0;--text:#0F172A;--mute:#64748B;--ac:#4F46E5;--tint:#EEF2FF;--green:#BBF7D0;--gt:#166534;--pink:#FBCFE8;--pt:#9D174D}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 Inter,system-ui,sans-serif}
+h1,h2,h3{font-family:'Plus Jakarta Sans',Inter,sans-serif;margin:0}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--ac);outline-offset:2px;border-radius:8px}
+.wrap{max-width:1040px;margin:0 auto;padding:32px 20px 64px}
+.hero{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 4px 18px rgba(15,23,42,.06);padding:32px;position:relative;overflow:hidden}
+.hero:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,#3B82F6,#8B5CF6)}
+.hero h1{font-size:clamp(28px,5vw,40px);font-weight:800;line-height:1.15}
+.hero p{color:var(--mute);margin:10px 0 20px;max-width:560px}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 20px;border-radius:12px;font-weight:600;border:1px solid var(--line);background:#fff;cursor:pointer;font:600 15px Inter,sans-serif;color:var(--text)}
+.btn.p{background:var(--ac);border-color:var(--ac);color:#fff}
+.btn:hover{filter:brightness(.97)}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.pill{background:var(--tint);color:var(--ac);border-radius:999px;padding:4px 12px;font-size:13px;font-weight:600}
+.tools{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin:32px 0 8px}
+.tools h2{font-size:22px}
+.tools input{min-height:44px;border:1px solid var(--line);border-radius:12px;padding:0 14px;font:15px Inter,sans-serif;width:240px;max-width:100%;background:#fff}
+.unit{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 2px 10px rgba(15,23,42,.04);padding:18px 20px;margin-top:16px}
+.unit h3{font-size:17px;display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.num{background:var(--ac);color:#fff;border-radius:10px;min-width:32px;height:32px;display:inline-grid;place-items:center;font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.les{display:flex;flex-direction:column;justify-content:center;min-height:56px;padding:8px 14px;border:1px solid var(--line);border-radius:12px;background:#fff;position:relative}
+.les:hover{border-color:var(--ac);background:var(--tint)}
+.les b{font-family:'Plus Jakarta Sans',sans-serif;font-size:16px}
+.les small{color:var(--mute);font-size:12px}
+.les.rev{border-style:dashed}
+.les.on:after{content:"In progress";position:absolute;right:8px;top:8px;background:var(--green);color:var(--gt);font-size:10px;font-weight:700;border-radius:999px;padding:1px 8px}
+.les.hid,.unit.hid{display:none}
+.empty{text-align:center;color:var(--mute);padding:32px}
+footer{text-align:center;color:var(--mute);font-size:13px;margin-top:40px}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero">
+<h1>Speakout B2 · English Course</h1>
+<p>60 interactive lessons: reading, listening, grammar, vocabulary, speaking and writing. Your progress is saved in this browser.</p>
+<div class="row">
+<a class="btn p" id="go" href="lesson.html?unit=1A">Start Lesson 1A →</a>
+<a class="btn" href="lesson.html?unit=1A" id="first" hidden>Lesson 1A</a>
+</div>
+<div class="stats"><span class="pill" id="sLes">0 / 60 lessons started</span><span class="pill" id="sWords">0 saved words</span></div>
+</section>
+<div class="tools">
+<h2>All lessons</h2>
+<input id="q" type="search" placeholder="Find a lesson, e.g. 4C or unit 7" aria-label="Find a lesson">
+</div>
+<div id="list" aria-live="polite"></div>
+<p class="empty" id="none" hidden>No lessons match your search.</p>
+<footer>Progress and wordlist are stored only in your browser.</footer>
+</main>
+<script>
+(function(){
+var L=["A","B","C","D","R"],N={A:"Lesson A",B:"Lesson B",C:"Lesson C",D:"Lesson D",R:"Review"};
+function rd(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}
+function started(id){var s=rd("speakout_b2_state_"+id);if(!s)return false;return !!(s.ans&&Object.keys(s.ans).length||s.text&&Object.keys(s.text).length||s.checked&&Object.keys(s.checked).length)}
+var list=document.getElementById("list"),n=0,last=null,firstNew=null;
+for(var u=1;u<=12;u++){
+var sec=document.createElement("section");sec.className="unit";sec.dataset.u=u;
+var h=document.createElement("h3");h.innerHTML='<span class="num">'+u+'</span>Unit '+u;sec.appendChild(h);
+var g=document.createElement("div");g.className="grid";
+L.forEach(function(l){
+var id=u+l,on=started(id);
+var a=document.createElement("a");a.href="lesson.html?unit="+id;a.className="les"+(l=="R"?" rev":"")+(on?" on":"");
+a.dataset.id=id.toLowerCase();a.innerHTML="<b>"+id+"</b><small>"+N[l]+"</small>";
+if(on){n++;last=id}else if(!firstNew)firstNew=id;
+g.appendChild(a)});
+sec.appendChild(g);list.appendChild(sec)}
+var go=document.getElementById("go");
+if(last){var nx=firstNew||last;go.textContent="Continue Lesson "+nx+" →";go.href="lesson.html?unit="+nx}
+document.getElementById("sLes").textContent=n+" / 60 lessons started";
+var w=rd("speakout_b2_wordlist");
+document.getElementById("sWords").textContent=(Array.isArray(w)?w.length:0)+" saved words";
+var q=document.getElementById("q"),none=document.getElementById("none");
+q.addEventListener("input",function(){
+var v=q.value.trim().toLowerCase().replace(/^unit\s*/,""),shown=0;
+document.querySelectorAll(".unit").forEach(function(s){
+var any=false;
+s.querySelectorAll(".les").forEach(function(a){
+var m=!v||a.dataset.id.indexOf(v)===0||(/^\d+$/.test(v)&&s.dataset.u===v);
+a.classList.toggle("hid",!m);if(m)any=true});
+s.classList.toggle("hid",!any);if(any)shown++});
+none.hidden=shown>0});
+})();
+</script>
+</body>
+</html>
