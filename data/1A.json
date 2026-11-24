@@ -179,41 +179,6 @@
       "meaning": "the traditions, achievements and beliefs that are part of a group's history",
       "example": "She is proud of her cultural heritage and shares it with her children."
     },
-    "culture": {
-      "ipa": "/ˈkʌl.tʃər/",
-      "pos": "noun",
-      "forms": ["cultures"],
-      "meaning": "the way of life, customs and beliefs of a particular group",
-      "example": "Living abroad helped him appreciate different cultures."
-    },
-    "appearance": {
-      "ipa": "/əˈpɪə.rəns/",
-      "pos": "noun",
-      "forms": [],
-      "meaning": "the way that someone or something looks",
-      "example": "Physical appearance is only one part of a person's identity."
-    },
-    "hobby": {
-      "ipa": "/ˈhɒb.i/",
-      "pos": "noun",
-      "forms": ["hobbies"],
-      "meaning": "an activity done for pleasure in your free time",
-      "example": "Photography has become his favourite hobby in recent years."
-    },
-    "interest": {
-      "ipa": "/ˈɪn.trəst/",
-      "pos": "noun",
-      "forms": ["interests"],
-      "meaning": "an activity or subject that you enjoy and want to know more about",
-      "example": "She has a wide range of interests including art and hiking."
-    },
-    "persona": {
-      "ipa": "/pəˈsəʊ.nə/",
-      "pos": "noun",
-      "forms": ["personas"],
-      "meaning": "the image or character that a person presents to other people",
-      "example": "Online, many people create a different persona from their real self."
-    },
     "take up": {
       "ipa": "/teɪk ʌp/",
       "pos": "phrasal verb",
@@ -312,34 +277,6 @@
       "meaning": "the effect that family members have on a person's character or choices",
       "example": "Family influence played a major role in her decision to study medicine."
     },
-    "present perfect simple": {
-      "ipa": "/ˈprez.ənt ˈpɜː.fekt ˈsɪm.pəl/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "a verb form used to talk about completed past actions with present relevance",
-      "example": "We use the present perfect simple to describe experiences and results."
-    },
-    "present perfect continuous": {
-      "ipa": "/ˈprez.ənt ˈpɜː.fekt kənˈtɪn.ju.əs/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "a verb form used to talk about ongoing actions that started in the past",
-      "example": "The present perfect continuous emphasises the duration of an activity."
-    },
-    "weak form": {
-      "ipa": "/wiːk fɔːm/",
-      "pos": "noun",
-      "forms": ["weak forms"],
-      "meaning": "the unstressed pronunciation of a word in connected speech",
-      "example": "Learners often struggle to recognise the weak forms of have and been."
-    },
-    "strong form": {
-      "ipa": "/strɒŋ fɔːm/",
-      "pos": "noun",
-      "forms": ["strong forms"],
-      "meaning": "the full, stressed pronunciation of a word",
-      "example": "The strong form of have is used when the word is emphasised."
-    },
     "suffix": {
       "ipa": "/ˈsʌf.ɪks/",
       "pos": "noun",
@@ -403,13 +340,6 @@
       "meaning": "the status of belonging to a particular nation by birth or naturalisation",
       "example": "She has dual nationality and holds two passports."
     },
-    "passport": {
-      "ipa": "/ˈpɑːs.pɔːt/",
-      "pos": "noun",
-      "forms": ["passports"],
-      "meaning": "an official document that allows a person to travel to foreign countries",
-      "example": "You need a valid passport to enter most countries."
-    },
     "survey": {
       "ipa": "/ˈsɜː.veɪ/",
       "pos": "noun",
@@ -431,103 +361,1020 @@
       "meaning": "having many mountains",
       "example": "The mountainous region attracts hikers and nature lovers."
     },
-    "open to new experiences": {
-      "ipa": "/ˈəʊ.pən tuː njuː ɪkˈspɪə.ri.əns.ɪz/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "willing to try unfamiliar activities or situations",
-      "example": "Travelling regularly has made her more open to new experiences."
+    "weak form": {
+      "ipa": "/wiːk fɔːm/",
+      "pos": "noun",
+      "forms": ["weak forms"],
+      "meaning": "the unstressed pronunciation of a word in connected speech",
+      "example": "Learners often struggle to recognise the weak forms of have and been."
     },
-    "break rules": {
-      "ipa": "/breɪk ruːlz/",
-      "pos": "fixed expression",
-      "forms": ["breaks rules", "broke rules", "broken rules"],
-      "meaning": "to fail to follow official or accepted guidelines",
-      "example": "Rebellious teenagers sometimes enjoy breaking rules."
-    },
-    "try new things": {
-      "ipa": "/traɪ njuː θɪŋz/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to experience or experiment with something unfamiliar",
-      "example": "Being adventurous means you are happy to try new things."
-    },
-    "change your mind": {
-      "ipa": "/tʃeɪndʒ jɔː maɪnd/",
-      "pos": "fixed expression",
-      "forms": ["changes your mind", "changed your mind"],
-      "meaning": "to alter your opinion or decision about something",
-      "example": "She is stubborn and rarely changes her mind once it is made up."
-    },
-    "feel happy most of the time": {
-      "ipa": "/fiːl ˈhæp.i məʊst əv ðə taɪm/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to experience a positive emotional state frequently",
-      "example": "Cheerful people tend to feel happy most of the time."
-    },
-    "disagree with other people": {
-      "ipa": "/ˌdɪs.əˈɡriː wɪð ˈʌð.ə ˈpiː.pəl/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to have a different opinion from others",
-      "example": "Argumentative people often disagree with other people in discussions."
-    },
-    "take risks": {
-      "ipa": "/teɪk rɪsks/",
-      "pos": "fixed expression",
-      "forms": ["takes risks", "took risks", "taken risks"],
-      "meaning": "to do something that involves danger or uncertainty",
-      "example": "Adventurous travellers are not afraid to take risks."
-    },
-    "go out with a lot of people": {
-      "ipa": "/ɡəʊ aʊt wɪð ə lɒt əv ˈpiː.pəl/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to spend time socially with many different people",
-      "example": "Outgoing students usually go out with a lot of people."
-    },
-    "interested in learning": {
-      "ipa": "/ˈɪn.trəs.tɪd ɪn ˈlɜː.nɪŋ/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "eager to acquire new knowledge or skills",
-      "example": "Curious students are always interested in learning about new things."
-    },
-    "big plans": {
-      "ipa": "/bɪɡ plænz/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "ambitious goals or intentions for the future",
-      "example": "Ambitious people often have big plans to achieve a lot of things."
-    },
-    "follow the rules": {
-      "ipa": "/ˈfɒl.əʊ ðə ruːlz/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to obey official or accepted guidelines",
-      "example": "If someone does not follow the rules, you can say they are rebellious."
-    },
-    "refuse to change your mind": {
-      "ipa": "/rɪˈfjuːz tuː tʃeɪndʒ jɔː maɪnd/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to be unwilling to alter an opinion or decision",
-      "example": "Stubborn people refuse to change their mind about something."
-    },
-    "smile a lot": {
-      "ipa": "/smaɪl ə lɒt/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "to show a happy expression frequently",
-      "example": "Cheerful people smile a lot and feel happy most of the time."
-    },
-    "not afraid of going to new places": {
-      "ipa": "/nɒt əˈfreɪd əv ˈɡəʊ.ɪŋ tuː njuː ˈpleɪ.sɪz/",
-      "pos": "fixed expression",
-      "forms": [],
-      "meaning": "willing to visit unfamiliar locations without fear",
-      "example": "Adventurous people are not afraid of going to new places and taking risks."
+    "strong form": {
+      "ipa": "/strɒŋ fɔːm/",
+      "pos": "noun",
+      "forms": ["strong forms"],
+      "meaning": "the full, stressed pronunciation of a word",
+      "example": "The strong form of have is used when the word is emphasised."
     }
-  }
+  },
+  "sections": [
+    {
+      "id": "1a-vocabulary",
+      "title": "Vocabulary – Personality adjectives",
+      "pages": "8",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "speaking",
+          "number": "1A",
+          "prompt": "Work in pairs and discuss the questions.",
+          "questions": [
+            "How would you usually describe yourself to someone you have never met before?",
+            "How do you think the factors in the box might influence someone's personality?"
+          ],
+          "targetVocab": ["personality", "identity", "influence", "background"]
+        },
+        {
+          "type": "reading",
+          "number": "1B",
+          "instruction": "Read the article. Does it include any of your ideas?",
+          "cards": [
+            {
+              "subheading": "What shapes our personality?",
+              "text": "Our experiences have a huge impact on our personalities. The jobs we do, the people we meet, our achievements and disappointments all contribute to the kind of person we are. What other factors might also be important?"
+            },
+            {
+              "subheading": "Family",
+              "text": "A lot of people think that our personality is shaped by the size of our family and our position in it. Some argue that first-born children are more likely to be ambitious achievers. Younger children, on the other hand, might be more rebellious and willing to break rules. The youngest child of a family is often fun-loving and adventurous – always keen to try new things. We can inherit personality characteristics, too, like being argumentative or stubborn."
+            },
+            {
+              "subheading": "Language",
+              "text": "Research suggests that the language we speak influences our personality and the way we think. In a recent survey of international students, Gosia, a Polish-born immigrant in the USA, says that when she speaks English, she feels 'more curious about the world'. Natasha, who speaks several languages, says that she feels more romantic when she's speaking in Portuguese, more cheerful and likely to smile when speaking Italian and more relaxed when speaking in Greek."
+            },
+            {
+              "subheading": "Geography",
+              "text": "Other studies show that where we live or were born might also influence our lifestyle, our personality and the way that we interact with others socially. People living in warmer climates often see themselves as more sociable and outgoing, whilst people from mountainous areas seem to be more open to new experiences."
+            }
+          ],
+          "highlights": [
+            { "text": "ambitious", "color": "pink" },
+            { "text": "rebellious", "color": "pink" },
+            { "text": "adventurous", "color": "pink" },
+            { "text": "argumentative", "color": "pink" },
+            { "text": "stubborn", "color": "pink" },
+            { "text": "curious", "color": "pink" },
+            { "text": "cheerful", "color": "pink" },
+            { "text": "outgoing", "color": "pink" },
+            { "text": "sociable", "color": "pink" }
+          ],
+          "legend": [
+            { "color": "pink", "label": "key vocabulary" }
+          ]
+        },
+        {
+          "type": "speaking",
+          "number": "1C",
+          "prompt": "Work in pairs and discuss the questions.",
+          "questions": [
+            "Which ideas in the article do you agree or disagree with? Which do you find surprising?",
+            "Do you feel your personality changes when you speak a different language? In what way?",
+            "What other things do you think can influence your personality?"
+          ],
+          "targetVocab": ["ambitious", "rebellious", "adventurous", "curious", "cheerful", "outgoing"]
+        },
+        {
+          "type": "flexible_input",
+          "number": "2A",
+          "instruction": "Complete the meanings with the adjectives in bold in the article.",
+          "items": [
+            {
+              "q": "1 If someone doesn't follow the rules, you can say they are being ___.",
+              "answers": ["rebellious"],
+              "blanks": [["rebellious"]],
+              "hint": "Think about younger children who break rules.",
+              "explanation": "The article says younger children might be more rebellious and willing to break rules."
+            },
+            {
+              "q": "2 When you are interested in learning about new things, you are ___.",
+              "answers": ["curious"],
+              "blanks": [["curious"]],
+              "hint": "Gosia feels this way when she speaks English.",
+              "explanation": "Curious means eager to know or learn about something."
+            },
+            {
+              "q": "3 When you have big plans to achieve a lot of things, you are ___.",
+              "answers": ["ambitious"],
+              "blanks": [["ambitious"]],
+              "hint": "Often used to describe first-born children.",
+              "explanation": "Ambitious people have a strong desire to succeed."
+            },
+            {
+              "q": "4 If you like to go out with a lot of people and enjoy yourself, you are ___.",
+              "answers": ["outgoing", "sociable"],
+              "blanks": [["outgoing", "sociable"]],
+              "hint": "People in warmer climates often describe themselves this way.",
+              "explanation": "Outgoing / sociable people enjoy the company of others."
+            },
+            {
+              "q": "5 If you smile a lot and feel happy most of the time, you are ___.",
+              "answers": ["cheerful"],
+              "blanks": [["cheerful"]],
+              "hint": "Natasha feels this way when speaking Italian.",
+              "explanation": "Cheerful means happy and positive in mood."
+            },
+            {
+              "q": "6 People who often disagree with other people are ___.",
+              "answers": ["argumentative"],
+              "blanks": [["argumentative"]],
+              "hint": "A personality characteristic we can inherit.",
+              "explanation": "Argumentative people tend to start or enjoy arguments."
+            },
+            {
+              "q": "7 If you're not afraid of going to new places and taking risks, you are ___.",
+              "answers": ["adventurous"],
+              "blanks": [["adventurous"]],
+              "hint": "Often used to describe the youngest child.",
+              "explanation": "Adventurous people are willing to try new and exciting things."
+            },
+            {
+              "q": "8 If you refuse to change your mind about something, you are ___.",
+              "answers": ["stubborn"],
+              "blanks": [["stubborn"]],
+              "hint": "Another characteristic we can inherit.",
+              "explanation": "Stubborn people are determined not to change their opinion."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "number": "2B",
+          "prompt": "Work in pairs. Describe three people you know using words from Ex 2A. Explain why you chose each word.",
+          "questions": [
+            "Who do you know who is ambitious / rebellious / curious / cheerful / outgoing / stubborn / adventurous / argumentative?",
+            "Why did you choose that adjective for them?"
+          ],
+          "targetVocab": ["ambitious", "rebellious", "curious", "cheerful", "outgoing", "stubborn", "adventurous", "argumentative"]
+        },
+        {
+          "type": "speaking",
+          "number": "2C",
+          "prompt": "Learn and practise. Go to the Vocabulary Bank: suffixes.",
+          "questions": [
+            "Look at how we can form adjectives from verbs and nouns by using different suffixes."
+          ],
+          "targetVocab": ["experienced", "relaxed", "optimistic", "realistic", "generous", "reliable", "thoughtful", "cheerful", "practical", "musical"]
+        }
+      ]
+    },
+    {
+      "id": "1a-listening",
+      "title": "Listening",
+      "pages": "9",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "audio_player",
+          "number": "3A",
+          "instruction": "Listen to a podcast on what makes us who we are. Who mentions the following topics? Matteo, Hana or both?",
+          "audioSrc": "audio/1A/1.01.mp3",
+          "transcript": "Matteo: I've lived in lots of different places around the world.\nHana: I enjoy food from a particular country or area.\nMatteo: Having a mixed identity.\nHana: Identifying with a particular type of music.\nBoth: Work experience.\nBoth: Family influence."
+        },
+        {
+          "type": "dropdown",
+          "number": "3A",
+          "instruction": "Who mentions the following topics? Matteo, Hana or both?",
+          "items": [
+            {
+              "q": "1 living in different countries ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["Matteo"],
+              "hint": "Listen for places around the world.",
+              "explanation": "Matteo talks about living in lots of different places."
+            },
+            {
+              "q": "2 enjoying food from a particular country or area ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["Hana"],
+              "hint": "Related to culture and identity.",
+              "explanation": "Hana mentions enjoying food from a particular country."
+            },
+            {
+              "q": "3 having a mixed identity ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["Matteo"],
+              "hint": "About nationality and belonging.",
+              "explanation": "Matteo discusses having a mixed identity."
+            },
+            {
+              "q": "4 identifying with a particular type of music ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["Hana"],
+              "hint": "Personal interests and identity.",
+              "explanation": "Hana talks about identifying with a type of music."
+            },
+            {
+              "q": "5 work experience ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["both"],
+              "hint": "Both speakers mention jobs or careers.",
+              "explanation": "Both Matteo and Hana mention work experience."
+            },
+            {
+              "q": "6 family influence ___",
+              "options": ["Matteo", "Hana", "both"],
+              "answers": ["both"],
+              "hint": "Parents and background.",
+              "explanation": "Both speakers talk about family influence."
+            }
+          ]
+        },
+        {
+          "type": "flexible_input",
+          "number": "3B",
+          "instruction": "Listen again and answer the questions.",
+          "items": [
+            {
+              "q": "1 How was Matteo able to get an Italian passport?",
+              "answers": ["His family background / Italian background / grandparents"],
+              "blanks": [["His family background", "Italian background", "grandparents", "family"]],
+              "hint": "Think about family origins.",
+              "explanation": "Matteo was able to get an Italian passport because of his Italian family background."
+            },
+            {
+              "q": "2 How has Matteo's Italian background influenced his lifestyle?",
+              "answers": ["food", "culture", "way of life"],
+              "blanks": [["food", "culture", "lifestyle"]],
+              "hint": "Food and traditions are mentioned.",
+              "explanation": "His Italian background has influenced the food he enjoys and aspects of his lifestyle."
+            },
+            {
+              "q": "3 Does Matteo feel British? Why/Why not?",
+              "answers": ["No", "mixed identity", "not only British"],
+              "blanks": [["No", "mixed", "not purely British"]],
+              "hint": "He talks about mixed identity.",
+              "explanation": "Matteo does not feel purely British; he has a mixed identity."
+            },
+            {
+              "q": "4 How does Hana feel about the different countries she has lived in?",
+              "answers": ["positive", "part of who she is", "important"],
+              "blanks": [["positive", "important", "part of her identity"]],
+              "hint": "They form a big part of who she is.",
+              "explanation": "Hana feels the different places she has lived form a big part of who she is."
+            },
+            {
+              "q": "5 Which part of her personality does Hana think she gets from a parent?",
+              "answers": ["ambition", "ambitious"],
+              "blanks": [["ambition", "ambitious", "being ambitious"]],
+              "hint": "Related to her career focus.",
+              "explanation": "Hana thinks she gets her ambition from a parent."
+            },
+            {
+              "q": "6 Why does Hana think she is so ambitious and focused on her career?",
+              "answers": ["family influence", "parent", "mum"],
+              "blanks": [["family", "parent", "mum", "mother"]],
+              "hint": "Family background is key.",
+              "explanation": "She attributes her ambition to family influence, especially a parent."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "number": "3C",
+          "prompt": "Work in pairs. Look at the quotes from the podcast. Are the comments true for you? Can you think of examples?",
+          "questions": [
+            "‘… everything I grew up with – the food, the language, the people – all of that forms a big part of who I am.’",
+            "‘… all of these different places [where I've lived] play a part in who I am, far beyond the idea of nationality or belonging to one single place.’",
+            "‘Everyone is an individual with different life experiences and different stories to tell.’"
+          ],
+          "targetVocab": ["identity", "background", "experience", "nationality"]
+        }
+      ]
+    },
+    {
+      "id": "1a-grammar",
+      "title": "Grammar – Present perfect simple and continuous",
+      "pages": "9",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "flexible_input",
+          "number": "4A",
+          "instruction": "Work in pairs. Read each pair of sentences (a and b) and answer the questions (1–6).",
+          "items": [
+            {
+              "q": "a We've been interviewing people out on the street.\nb We've had some really interesting replies.\n1 Which tense focuses on the result of an activity?\n2 Which tense focuses on the activity itself?",
+              "answers": ["b / present perfect simple", "a / present perfect continuous"],
+              "blanks": [["b", "present perfect simple", "We've had"], ["a", "present perfect continuous", "We've been interviewing"]],
+              "hint": "Result vs activity in progress.",
+              "explanation": "Present perfect simple focuses on the result; continuous focuses on the activity itself."
+            },
+            {
+              "q": "a I've lived in lots of different places around the world.\nb I've been living in the UK for over five years now.\n3 Which tense answers the question: How many?\n4 Which tense answers the question: How long?",
+              "answers": ["a / present perfect simple", "b / present perfect continuous"],
+              "blanks": [["a", "present perfect simple"], ["b", "present perfect continuous"]],
+              "hint": "How many vs How long.",
+              "explanation": "Present perfect simple is used for How many?; continuous for How long?"
+            },
+            {
+              "q": "a I've learnt that hard work always pays off.\nb I've been learning Dutch, but it's really hard!\n5 Which tense describes a completed action?\n6 Which tense describes an activity which is unfinished?",
+              "answers": ["a / present perfect simple", "b / present perfect continuous"],
+              "blanks": [["a", "present perfect simple"], ["b", "present perfect continuous"]],
+              "hint": "Completed vs unfinished.",
+              "explanation": "Present perfect simple describes completed actions; continuous describes unfinished activities."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "number": "4B",
+          "prompt": "Learn and practise. Go to the Grammar Bank.",
+          "questions": [
+            "Study the differences between present perfect simple and continuous."
+          ],
+          "targetVocab": []
+        }
+      ]
+    },
+    {
+      "id": "1a-pronunciation",
+      "title": "Pronunciation – Weak forms of have and been",
+      "pages": "9",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "audio_player",
+          "number": "5A",
+          "instruction": "Listen and complete the questions.",
+          "audioSrc": "audio/1A/1.02.mp3",
+          "transcript": "1 How long have you been living here?\n2 Have you lived in another country?\n3 What have you been doing recently?\n4 How long have you been studying English?"
+        },
+        {
+          "type": "flexible_input",
+          "number": "5A",
+          "instruction": "Listen and complete the questions.",
+          "items": [
+            {
+              "q": "1 How long ___ living here?",
+              "answers": ["have you been"],
+              "blanks": [["have you been"]],
+              "hint": "Weak form of have + been.",
+              "explanation": "The weak form is /həv juː bɪn/."
+            },
+            {
+              "q": "2 ___ lived in another country?",
+              "answers": ["Have you"],
+              "blanks": [["Have you"]],
+              "hint": "Question with present perfect simple.",
+              "explanation": "Have you lived… uses the weak form of have."
+            },
+            {
+              "q": "3 What ___ doing recently?",
+              "answers": ["have you been"],
+              "blanks": [["have you been"]],
+              "hint": "Present perfect continuous.",
+              "explanation": "What have you been doing… uses weak forms."
+            },
+            {
+              "q": "4 How long ___ studying English?",
+              "answers": ["have you been"],
+              "blanks": [["have you been"]],
+              "hint": "Duration with continuous form.",
+              "explanation": "How long have you been studying… uses weak forms of have and been."
+            }
+          ]
+        },
+        {
+          "type": "speaking",
+          "number": "5B",
+          "prompt": "Listen again. Does the speaker use the strong forms of have and been (/hæv/ and /biːn/) or the weak forms (/həv/ and /bɪn/)?",
+          "questions": [
+            "Do you hear the strong or weak forms in the questions?"
+          ],
+          "targetVocab": ["weak form", "strong form"]
+        },
+        {
+          "type": "speaking",
+          "number": "5C",
+          "prompt": "Work in pairs. Ask and answer the questions in Ex 5A.",
+          "questions": [
+            "How long have you been living here?",
+            "Have you lived in another country?",
+            "What have you been doing recently?",
+            "How long have you been studying English?"
+          ],
+          "targetVocab": []
+        }
+      ]
+    },
+    {
+      "id": "1a-speaking",
+      "title": "Speaking",
+      "pages": "9",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/1A/photo1.jpg",
+          "alt": "Pie chart showing factors that make up personal identity: online persona, experiences, cultural heritage, family, physical appearance, work, hobbies/interests",
+          "caption": "Pie chart – What makes you who you are?"
+        },
+        {
+          "type": "speaking",
+          "number": "6A",
+          "prompt": "Draw a pie chart like the one below to explain what makes you who you are. Make notes about why each part is important.",
+          "questions": [
+            "Which parts of the pie chart are most important for you: online persona, experiences, cultural heritage, family, physical appearance, work, hobbies/interests?",
+            "Why is each part important?"
+          ],
+          "targetVocab": ["identity", "online persona", "cultural heritage", "family influence", "physical appearance"]
+        },
+        {
+          "type": "speaking",
+          "number": "6B",
+          "prompt": "Work in groups. Show your charts to each other and talk about the different parts of your personal identity. Whose ideas are similar to yours?",
+          "questions": [
+            "What do your pie charts have in common?",
+            "Which factors are most important for your identity?"
+          ],
+          "targetVocab": ["identity", "experiences", "family", "work", "hobbies"]
+        }
+      ]
+    },
+    {
+      "id": "1a-writing",
+      "title": "Writing – A blog post",
+      "pages": "10",
+      "group": "lesson",
+      "blocks": [
+        {
+          "type": "reading",
+          "number": "7A",
+          "instruction": "Read the blog post. What do you learn about Sydney's family background, personality and attitude to work?",
+          "cards": [
+            {
+              "subheading": "Who am I?",
+              "text": "My name is Sydney and I was born in Sacramento, in the USA. My parents are immigrants from China, so I've grown up speaking Mandarin at home but English at school and with my friends. We have family in China so we have always visited regularly. As well as my U.S. identity, I would say that I identify quite strongly with my Asian roots."
+            },
+            {
+              "subheading": "Personal life",
+              "text": "In my personal life, I would like to think that I'm quite adventurous. I love trying out new experiences. I'm not particularly good at either, but I'm quite stubborn, so I plan to keep going. I'm also outgoing and sociable."
+            },
+            {
+              "subheading": "Work",
+              "text": "In my work, I'm very ambitious. I never settle for anything less than the best and always work hard. In terms of my experience, I've been designing websites for over seven years. I co-founded WebDesignSY, an award-winning creative studio. I've designed websites for businesses, charities and individuals. I've also taught several courses in design at the California Institute of Arts and Technology. I love nothing more than thinking of interesting ways to represent you and your brand, so please get in touch."
+            }
+          ],
+          "highlights": [
+            { "text": "I've grown up", "color": "green" },
+            { "text": "I've been designing", "color": "green" },
+            { "text": "adventurous", "color": "pink" },
+            { "text": "stubborn", "color": "pink" },
+            { "text": "outgoing", "color": "pink" },
+            { "text": "sociable", "color": "pink" },
+            { "text": "ambitious", "color": "pink" }
+          ],
+          "legend": [
+            { "color": "green", "label": "present perfect" },
+            { "color": "pink", "label": "personality adjectives" }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "number": "7B",
+          "instruction": "Complete the blog post with Sydney's examples to support her ideas.",
+          "wordBox": [
+            "Recently, I've taken up rock climbing and surfing.",
+            "I love nothing more than getting together with a big group of friends!",
+            "I love the Chinese New Year celebrations, and I'm crazy about Asian food!",
+            "You will often find me working late at night to get the job done."
+          ],
+          "items": [
+            {
+              "q": "a ___",
+              "options": [
+                "Recently, I've taken up rock climbing and surfing.",
+                "I love nothing more than getting together with a big group of friends!",
+                "I love the Chinese New Year celebrations, and I'm crazy about Asian food!",
+                "You will often find me working late at night to get the job done."
+              ],
+              "answers": ["Recently, I've taken up rock climbing and surfing."],
+              "hint": "Supports being adventurous.",
+              "explanation": "This example supports the idea of being adventurous."
+            },
+            {
+              "q": "b ___",
+              "options": [
+                "Recently, I've taken up rock climbing and surfing.",
+                "I love nothing more than getting together with a big group of friends!",
+                "I love the Chinese New Year celebrations, and I'm crazy about Asian food!",
+                "You will often find me working late at night to get the job done."
+              ],
+              "answers": ["I love nothing more than getting together with a big group of friends!"],
+              "hint": "Supports being outgoing and sociable.",
+              "explanation": "This example supports being outgoing and sociable."
+            },
+            {
+              "q": "c ___",
+              "options": [
+                "Recently, I've taken up rock climbing and surfing.",
+                "I love nothing more than getting together with a big group of friends!",
+                "I love the Chinese New Year celebrations, and I'm crazy about Asian food!",
+                "You will often find me working late at night to get the job done."
+              ],
+              "answers": ["I love the Chinese New Year celebrations, and I'm crazy about Asian food!"],
+              "hint": "Supports Asian roots / cultural identity.",
+              "explanation": "This example supports her Asian cultural identity."
+            },
+            {
+              "q": "d ___",
+              "options": [
+                "Recently, I've taken up rock climbing and surfing.",
+                "I love nothing more than getting together with a big group of friends!",
+                "I love the Chinese New Year celebrations, and I'm crazy about Asian food!",
+                "You will often find me working late at night to get the job done."
+              ],
+              "answers": ["You will often find me working late at night to get the job done."],
+              "hint": "Supports being ambitious and hard-working.",
+              "explanation": "This example supports her ambitious attitude to work."
+            }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "number": "7C",
+          "instruction": "Match the sentence beginnings (1–7) with the endings (a–g).",
+          "items": [
+            {
+              "q": "1 I would say that I ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["that I'm cheerful and friendly."],
+              "hint": "Personality description.",
+              "explanation": "Matches a positive personality statement."
+            },
+            {
+              "q": "2 In my work, I'm very ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["reliable. I will always complete a job I'm given."],
+              "hint": "Work attitude.",
+              "explanation": "Describes reliability at work."
+            },
+            {
+              "q": "3 You will often find me ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["at my desk before anyone else arrives at work."],
+              "hint": "Hard-working habit.",
+              "explanation": "Shows dedication to work."
+            },
+            {
+              "q": "4 In my personal life, ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["I like to be sociable."],
+              "hint": "Social personality.",
+              "explanation": "Describes personal life preference."
+            },
+            {
+              "q": "5 I would like to think ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["that I'm cheerful and friendly."],
+              "hint": "Self-image.",
+              "explanation": "Positive self-description."
+            },
+            {
+              "q": "6 I love nothing more than ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["doing a job to the best of my abilities."],
+              "hint": "Work ethic.",
+              "explanation": "Shows high standards at work."
+            },
+            {
+              "q": "7 Recently I've taken up ___",
+              "options": [
+                "at my desk before anyone else arrives at work.",
+                "I like to be sociable.",
+                "that I'm cheerful and friendly.",
+                "reliable. I will always complete a job I'm given.",
+                "doing a job to the best of my abilities.",
+                "work harder than most people I know.",
+                "skateboarding and I'm really enjoying it."
+              ],
+              "answers": ["skateboarding and I'm really enjoying it."],
+              "hint": "New hobby.",
+              "explanation": "Example of taking up a new activity."
+            }
+          ]
+        },
+        {
+          "type": "writing_box",
+          "number": "7D",
+          "instruction": "Write a Who am I? blog post describing yourself. Use the sentence beginnings in Ex 7C to help you, and include examples to support your ideas. Write about: your family background and identity; your personality and personal life; your attitude to work or studying.",
+          "minWords": 120,
+          "maxWords": 180,
+          "targetVocab": ["ambitious", "outgoing", "sociable", "adventurous", "stubborn", "reliable", "identity", "background"]
+        }
+      ]
+    },
+    {
+      "id": "1a-grammar-bank",
+      "title": "Grammar Bank – Present perfect simple and continuous",
+      "pages": "108",
+      "group": "focus",
+      "blocks": [
+        {
+          "type": "grammar_box",
+          "title": "Present perfect simple and continuous",
+          "highlights": [
+            { "text": "present perfect simple", "color": "green" },
+            { "text": "present perfect continuous", "color": "green" }
+          ],
+          "rules": [
+            {
+              "label": "Focusing on the result of the activity",
+              "rule": "We use the present perfect simple to focus on the result of a completed activity.",
+              "example": "He's passed all of his exams. (Focuses on the result – passing the exams)"
+            },
+            {
+              "label": "Focusing on the activity itself",
+              "rule": "We use the present perfect continuous to focus on the activity itself.",
+              "example": "He's been studying for his exams. (Focuses on the activity of studying)"
+            },
+            {
+              "label": "How many? vs. How long?",
+              "rule": "We use the present perfect simple to answer the questions: ‘How many?’, ‘How much?’ or ‘How far?’ We use the present perfect continuous to answer the question: ‘How long?’ and to emphasise that an action has continued for a long time or is repeated.",
+              "example": "We've interviewed more than 100 applicants (How many?). We've been waiting for over forty minutes now!"
+            },
+            {
+              "label": "Completed vs. unfinished actions",
+              "rule": "We use the present perfect simple to describe completed actions. We use the present perfect continuous to describe actions that are unfinished or in progress.",
+              "example": "Oh no, I've missed the bus! (The bus isn't here now, so the action is completed.) I've been learning Mandarin. (I'm still learning, so the action is not completed.)"
+            },
+            {
+              "label": "State verbs, experiences and habits",
+              "rule": "We use the present perfect simple, NOT the present perfect continuous, with state verbs, to talk about states or situations that started in the past and are in progress. We also use the present perfect simple with the words always, ever and never to talk about experiences and habits.",
+              "example": "How long have you known Jessica? I've owned this car since 2009. He's never driven to work, he always goes by bike."
+            }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "number": "1",
+          "instruction": "Choose the correct word(s) to complete the sentences.",
+          "items": [
+            {
+              "q": "1 I've ___ this amazing series recently.",
+              "options": ["watched", "been watching"],
+              "answers": ["been watching"],
+              "hint": "Focus on the activity.",
+              "explanation": "Been watching focuses on the ongoing activity."
+            },
+            {
+              "q": "2 I've ___ to the gym twice already this week.",
+              "options": ["been", "been going"],
+              "answers": ["been"],
+              "hint": "Completed actions, how many times.",
+              "explanation": "Present perfect simple for completed actions with a number."
+            },
+            {
+              "q": "3 We've ___ them for about ten years.",
+              "options": ["known", "been knowing"],
+              "answers": ["known"],
+              "hint": "State verb.",
+              "explanation": "Know is a state verb; use present perfect simple."
+            },
+            {
+              "q": "4 You've ___ on that report all morning!",
+              "options": ["worked", "been working"],
+              "answers": ["been working"],
+              "hint": "Focus on the activity and duration.",
+              "explanation": "Been working emphasises the ongoing activity."
+            },
+            {
+              "q": "5 He's ___ with me whilst they're repainting his flat.",
+              "options": ["stayed", "been staying"],
+              "answers": ["been staying"],
+              "hint": "Temporary ongoing situation.",
+              "explanation": "Been staying shows a temporary ongoing action."
+            },
+            {
+              "q": "6 I've probably ___ that film about twenty-five times!",
+              "options": ["seen", "been seeing"],
+              "answers": ["seen"],
+              "hint": "Completed experience, how many times.",
+              "explanation": "Seen is used for the completed experience."
+            }
+          ]
+        },
+        {
+          "type": "flexible_input",
+          "number": "2",
+          "instruction": "Complete the sentences with the correct present perfect simple or continuous form of the verb in brackets.",
+          "items": [
+            {
+              "q": "1 Oh, no! I think he ___ (break) his foot.",
+              "answers": ["has broken", "'s broken"],
+              "blanks": [["has broken", "'s broken"]],
+              "hint": "Completed result.",
+              "explanation": "Present perfect simple for a completed action with present result."
+            },
+            {
+              "q": "2 I ___ (cook) all morning, but I've still got a lot to do!",
+              "answers": ["have been cooking", "'ve been cooking"],
+              "blanks": [["have been cooking", "'ve been cooking"]],
+              "hint": "Ongoing activity.",
+              "explanation": "Present perfect continuous for an activity that started in the past and is still continuing."
+            },
+            {
+              "q": "3 I ___ never ___ (try) skiing.",
+              "answers": ["have", "tried"],
+              "blanks": [["have"], ["tried"]],
+              "hint": "Experience with never.",
+              "explanation": "Present perfect simple with never for experiences."
+            },
+            {
+              "q": "4 How many invitations ___ you ___ (send) so far?",
+              "answers": ["have", "sent"],
+              "blanks": [["have"], ["sent"]],
+              "hint": "How many = simple.",
+              "explanation": "Present perfect simple answers How many?"
+            },
+            {
+              "q": "5 ___ all the guests ___ (arrive) yet?",
+              "answers": ["Have", "arrived"],
+              "blanks": [["Have"], ["arrived"]],
+              "hint": "Completed action.",
+              "explanation": "Present perfect simple for a completed action."
+            },
+            {
+              "q": "6 I'm worried about Piotr. He ___ (work) so hard recently.",
+              "answers": ["has been working", "'s been working"],
+              "blanks": [["has been working", "'s been working"]],
+              "hint": "Ongoing recent activity.",
+              "explanation": "Present perfect continuous for a recent ongoing activity."
+            },
+            {
+              "q": "7 How long ___ you ___ (know) Natasha?",
+              "answers": ["have", "known"],
+              "blanks": [["have"], ["known"]],
+              "hint": "State verb + How long.",
+              "explanation": "Know is a state verb; use present perfect simple."
+            },
+            {
+              "q": "8 She ___ (study) for her exams for weeks.",
+              "answers": ["has been studying", "'s been studying"],
+              "blanks": [["has been studying", "'s been studying"]],
+              "hint": "Duration of ongoing activity.",
+              "explanation": "Present perfect continuous emphasises duration."
+            }
+          ]
+        },
+        {
+          "type": "flexible_input",
+          "number": "3",
+          "instruction": "Use the answers and the verbs in bold to write questions in the present perfect simple or continuous. If both forms are possible, use the continuous form.",
+          "items": [
+            {
+              "q": "1 I teach at the university. → How long ___ there?",
+              "answers": ["have you been teaching", "have you taught"],
+              "blanks": [["have you been teaching", "have you taught"]],
+              "hint": "Prefer continuous for duration.",
+              "explanation": "How long have you been teaching there?"
+            },
+            {
+              "q": "2 I know Johanna really well. → How long ___ her?",
+              "answers": ["have you known"],
+              "blanks": [["have you known"]],
+              "hint": "State verb.",
+              "explanation": "How long have you known her?"
+            },
+            {
+              "q": "3 I'm developing a new website. → How long ___ it?",
+              "answers": ["have you been developing"],
+              "blanks": [["have you been developing"]],
+              "hint": "Ongoing activity.",
+              "explanation": "How long have you been developing it?"
+            },
+            {
+              "q": "4 I play golf on Saturdays. → How long ___ ?",
+              "answers": ["have you been playing"],
+              "blanks": [["have you been playing"]],
+              "hint": "Habit / repeated activity.",
+              "explanation": "How long have you been playing?"
+            },
+            {
+              "q": "5 I live in Krakow. → How long ___ there?",
+              "answers": ["have you been living", "have you lived"],
+              "blanks": [["have you been living", "have you lived"]],
+              "hint": "Both possible; continuous preferred for duration.",
+              "explanation": "How long have you been living there?"
+            },
+            {
+              "q": "6 He wins a lot of awards. → How many ___ ?",
+              "answers": ["has he won"],
+              "blanks": [["has he won"]],
+              "hint": "How many = simple.",
+              "explanation": "How many awards has he won?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1a-vocabulary-bank",
+      "title": "Vocabulary Bank – Suffixes",
+      "pages": "136",
+      "group": "focus",
+      "blocks": [
+        {
+          "type": "flexible_input",
+          "number": "1A",
+          "instruction": "Look at how we can form adjectives from verbs and nouns by using different suffixes, e.g. -ed, -ous, -ful. What is the root word for each of the adjectives in the table? How has the spelling changed?",
+          "items": [
+            {
+              "q": "-ed: experienced → root: ___; relaxed → root: ___",
+              "answers": ["experience", "relax"],
+              "blanks": [["experience"], ["relax"]],
+              "hint": "Remove the -ed ending.",
+              "explanation": "experienced ← experience; relaxed ← relax."
+            },
+            {
+              "q": "-ic: optimistic/pessimistic → root: ___; realistic → root: ___",
+              "answers": ["optimist/pessimist", "real"],
+              "blanks": [["optimist", "pessimist", "optimism", "pessimism"], ["real", "reality"]],
+              "hint": "Related to optimist / real.",
+              "explanation": "optimistic ← optimist; realistic ← real."
+            },
+            {
+              "q": "-ous: generous → root: ___; ___",
+              "answers": ["generosity", "ambition / adventure"],
+              "blanks": [["generosity", "generous"], ["ambition", "ambitious", "adventure", "adventurous"]],
+              "hint": "Common -ous adjectives from the lesson.",
+              "explanation": "generous ← generosity; ambitious ← ambition; adventurous ← adventure."
+            },
+            {
+              "q": "-able: reliable → root: ___; ___",
+              "answers": ["rely", "depend"],
+              "blanks": [["rely"], ["depend", "dependable"]],
+              "hint": "Verb + -able.",
+              "explanation": "reliable ← rely; dependable ← depend."
+            },
+            {
+              "q": "-ful: thoughtful → root: ___; cheerful → root: ___; ___",
+              "answers": ["thought", "cheer", "help / hope"],
+              "blanks": [["thought"], ["cheer"], ["help", "hope", "helpful", "hopeful"]],
+              "hint": "Noun + -ful.",
+              "explanation": "thoughtful ← thought; cheerful ← cheer; helpful ← help; hopeful ← hope."
+            },
+            {
+              "q": "-al: practical → root: ___; musical → root: ___",
+              "answers": ["practice", "music"],
+              "blanks": [["practice", "practise"], ["music"]],
+              "hint": "Noun + -al.",
+              "explanation": "practical ← practice; musical ← music."
+            }
+          ]
+        },
+        {
+          "type": "flexible_input",
+          "number": "2A",
+          "instruction": "Complete the sentences with the correct adjective form of the words in brackets.",
+          "items": [
+            {
+              "q": "1 We can depend on Sam to be here on time. He's very ___. (rely)",
+              "answers": ["reliable"],
+              "blanks": [["reliable"]],
+              "hint": "rely + -able",
+              "explanation": "reliable is the adjective form of rely."
+            },
+            {
+              "q": "2 Melissa became quite ___ as she was watching the film. (emotion)",
+              "answers": ["emotional"],
+              "blanks": [["emotional"]],
+              "hint": "emotion + -al",
+              "explanation": "emotional is the adjective form of emotion."
+            },
+            {
+              "q": "3 Al will need some help setting up the new printer. He's not very ___. (practice)",
+              "answers": ["practical"],
+              "blanks": [["practical"]],
+              "hint": "practice + -al",
+              "explanation": "practical is the adjective form of practice."
+            },
+            {
+              "q": "4 I love the fact that Leo is always so ___ about life! (optimist)",
+              "answers": ["optimistic"],
+              "blanks": [["optimistic"]],
+              "hint": "optimist + -ic",
+              "explanation": "optimistic is the adjective form of optimist."
+            },
+            {
+              "q": "5 Sasha is a really ___ musician. (talent)",
+              "answers": ["talented"],
+              "blanks": [["talented"]],
+              "hint": "talent + -ed",
+              "explanation": "talented is the adjective form of talent."
+            },
+            {
+              "q": "6 Thanks for moving those boxes – it was really ___. (help)",
+              "answers": ["helpful"],
+              "blanks": [["helpful"]],
+              "hint": "help + -ful",
+              "explanation": "helpful is the adjective form of help."
+            },
+            {
+              "q": "7 It was very ___ of you to send those flowers to cheer me up! (thought)",
+              "answers": ["thoughtful"],
+              "blanks": [["thoughtful"]],
+              "hint": "thought + -ful",
+              "explanation": "thoughtful is the adjective form of thought."
+            },
+            {
+              "q": "8 I don't think I'll go to the party – I'm not feeling very ___ today. (social)",
+              "answers": ["sociable", "social"],
+              "blanks": [["sociable", "social"]],
+              "hint": "social + -able or related form",
+              "explanation": "sociable (or social) fits the context of not wanting to socialise."
+            },
+            {
+              "q": "9 I'm not ___ enough to go paragliding! (adventure)",
+              "answers": ["adventurous"],
+              "blanks": [["adventurous"]],
+              "hint": "adventure + -ous",
+              "explanation": "adventurous is the adjective form of adventure."
+            },
+            {
+              "q": "10 I'm sure she'll be prime minister one day. She's incredibly ___. (ambition)",
+              "answers": ["ambitious"],
+              "blanks": [["ambitious"]],
+              "hint": "ambition + -ous",
+              "explanation": "ambitious is the adjective form of ambition."
+            }
+          ]
+        },
+        {
+          "type": "audio_player",
+          "number": "2B",
+          "instruction": "Listen and check your answers.",
+          "audioSrc": "audio/1A/vb1.01.mp3",
+          "transcript": "1 reliable\n2 emotional\n3 practical\n4 optimistic\n5 talented\n6 helpful\n7 thoughtful\n8 sociable\n9 adventurous\n10 ambitious"
+        },
+        {
+          "type": "speaking",
+          "number": "2C",
+          "prompt": "Work in pairs. Take turns describing adjectives for your partner to guess.",
+          "questions": [
+            "Student A: This describes someone who plays the guitar and sings, and loves going to watch bands.",
+            "Student B: Musical?",
+            "Student A: That's right."
+          ],
+          "targetVocab": ["musical", "ambitious", "reliable", "thoughtful", "adventurous", "optimistic", "practical", "cheerful"]
+        }
+      ]
+    }
+  ]
 }
