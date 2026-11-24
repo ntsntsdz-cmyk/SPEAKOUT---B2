@@ -773,8 +773,20 @@
       "blocks": [
         {
           "type": "image",
-          "src": "images/1A/photo1.jpg",
-          "alt": "Pie chart showing factors that make up personal identity: online persona, experiences, cultural heritage, family, physical appearance, work, hobbies/interests",
+          "images": [
+            {
+              "src": "images/1A/photo1.jpg",
+              "alt": "Pie chart showing the different parts of personal identity: online persona, experiences, cultural heritage, family, physical appearance, work and hobbies/interests"
+            },
+            {
+              "src": "images/1A/photo2.jpg",
+              "alt": "Young woman looking thoughtfully at the camera, representing personal identity and self-reflection"
+            },
+            {
+              "src": "images/1A/photo3.jpg",
+              "alt": "Young man working at a laptop in a creative studio, illustrating work, ambition and professional identity"
+            }
+          ],
           "caption": "Pie chart – What makes you who you are?"
         },
         {
